@@ -17,7 +17,7 @@ A Java-based web application packaged as a **WAR file**, designed for managing a
 - Java
 - JSP / Servlets
 - JDBC
-- MySQL / Oracle
+- Oracle
 - Tomcat (or any Java server)
 - Git & GitHub
 
